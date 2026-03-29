@@ -33,4 +33,13 @@ This project was built to practice **React concepts and UI styling using Tailwin
 
 -  **React** – for building the user interface  
 -  **Tailwind CSS** – for styling  
--  **JavaScript** – for calculator logic  
+-  **JavaScript** – for calculator logic
+
+## Future Improvements
+
+Some features that can be added:
+
+Dark mode 🌙
+Keyboard input support ⌨️
+Calculation history 📜
+More scientific functions
